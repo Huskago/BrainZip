@@ -1,0 +1,3 @@
+/home/huskago/Documents/projects/BrainZip/CMakeFiles/brainzip.dir
+/home/huskago/Documents/projects/BrainZip/CMakeFiles/edit_cache.dir
+/home/huskago/Documents/projects/BrainZip/CMakeFiles/rebuild_cache.dir

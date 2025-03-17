@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/brainzip.dir/link.d CMakeFiles/brainzip.dir/main.c.o CMakeFiles/brainzip.dir/brainfuck.c.o CMakeFiles/brainzip.dir/zip.c.o -o brainzip
